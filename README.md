@@ -1,50 +1,51 @@
 1. Introduction to TypeScript
+
     • What is TypeScript?
     • Setting up the TypeScript environment.
     • Differences between TypeScript and JavaScript.
-2. Basic Types
+3. Basic Types
     • Primitive types (string, number, boolean).
     • Arrays, Tuples.
     • Enums.
     • Any, Unknown, Void, Never types.
-3. Functions
+4. Functions
     • Typing function parameters and return values.
     • Optional and default parameters.
     • Function types and callbacks.
-4. Interfaces
+5. Interfaces
     • Defining interfaces.
     • Using interfaces to enforce shape.
     • Extending interfaces.
-5. Classes
+6. Classes
     • Defining classes with TypeScript.
     • Access modifiers: public, private, protected.
     • Readonly properties.
     • Implementing interfaces with classes.
-6. Generics
+7. Generics
     • What are generics?
     • Generic functions and classes.
     • Constraints on generics.
-7. Modules and Namespaces
+8. Modules and Namespaces
     • Importing and exporting modules.
     • Using namespaces.
-8. Advanced Types
+9. Advanced Types
     • Union and Intersection types.
     • Type aliases.
     • Type guards and type assertions.
-9. Utility Types
+10. Utility Types
     • Partial, Readonly, Pick, Omit, etc.
     • Working with mapped types.
-10. Decorators
+11. Decorators
     • What are decorators?
     • Creating and using decorators in TypeScript.
-11. TypeScript with React
+12. TypeScript with React
     • Setting up a React project with TypeScript.
     • Typing props and state.
     • Using TypeScript with React Hooks.
-12. TypeScript Compiler
+13. TypeScript Compiler
     • Configuring tsconfig.json.
     • TypeScript compiler options.
-13. Best Practices and Common Mistakes
+14. Best Practices and Common Mistakes
     • Best practices when using TypeScript.
     • Common pitfalls and how to avoid them.
 
